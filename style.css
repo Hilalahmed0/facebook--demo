@@ -1,0 +1,96 @@
+
+           *{
+            margin: 0px;
+            padding: 0px;
+        }
+        .container{
+            background-color:#F0F2F5;
+            height: 600px;
+           
+            
+        }
+        .box1{ height: 400px;
+         background-color:#F0F2F5;
+         /* text-align: center; */
+         width: 300px;
+         position: relative;
+         width: 670px;
+         top: 100px;
+         left: 60px;
+         font-size: 40px;
+         padding-top: 100px;
+
+        }
+        h2{
+            color:#1877F2;
+            font-family: Helvetica, Arial, sans-serif;
+        }
+        p{
+            font-family: Helvetica, Arial, sans-serif;
+        }
+
+        .box2{
+            background-color: white;
+            height: 400px;
+            width: 400px;
+            border-radius: 12px;
+            position: relative;
+            left: 892px;
+            top: -377px;
+            font-size: 20px;
+            text-align: center;
+            text-decoration: turquoise;
+            
+
+         }
+             
+     input {
+         width: 350px;
+         padding: 10px;
+         font-size: 15px;
+         border-radius: 8px;
+         padding-top: 10px;
+         border: 1px solid #DDDFE2;
+         font-weight: 300;
+     }
+
+
+     button {
+         width: 300px;
+         padding: 15px;
+         color: white;
+         background:#166FE5;
+         font-size: 20px;
+         border-radius: 10px;
+         border-style: none;
+         font-weight: 500;
+         font-family: serif Helvetica, Arial, sans-serif;
+
+     }
+     .c{
+         background-color: #36A420;
+         width: 220px;
+         height: 50px;
+         padding: 10px;
+         font-size: 17px;
+         font-family: serif Helvetica, Arial, sans-serif;
+         font-weight: 600;
+
+     }
+     hr{
+        border: 1px solid #DDDFE2;
+     }
+     a{
+         text-decoration: none;
+         font-weight: 400;
+     }
+
+           footer{
+               background-color: white;
+               color: rgb(146, 143, 143);
+               text-align: center;
+               padding: 10px;
+               word-spacing: 10px;
+               font-family: Helvetica, Arial, sans-serif;
+           }
+        
